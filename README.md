@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sivaraja2004-ui/practice/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/sivaraja2004-ui/practice/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sivaraja2004-ui/practice/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/sivaraja2004-ui/practice/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/sivaraja2004-ui/practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sivaraja2004-ui/practice/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sivaraja2004-ui/practice/tree/master/0202-happy-number) |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sivaraja2004-ui/practice/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/sivaraja2004-ui/practice/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
