@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sivaraja2004-ui/practice/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/sivaraja2004-ui/practice/tree/master/0015-3sum) |
 | [0202-happy-number](https://github.com/sivaraja2004-ui/practice/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sivaraja2004-ui/practice/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/sivaraja2004-ui/practice/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sivaraja2004-ui/practice/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/sivaraja2004-ui/practice/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
