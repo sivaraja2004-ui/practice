@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sivaraja2004-ui/practice/tree/master/0027-remove-element) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/sivaraja2004-ui/practice/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sivaraja2004-ui/practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/sivaraja2004-ui/practice/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sivaraja2004-ui/practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sivaraja2004-ui/practice/tree/master/0018-4sum) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/sivaraja2004-ui/practice/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/sivaraja2004-ui/practice/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Backtracking
 |  |
 | ------- |
